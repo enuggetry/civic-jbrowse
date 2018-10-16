@@ -1,0 +1,19 @@
+{
+  "name": "civic2gff",
+  "version": "0.0.10",
+  "description": "parse CIVIC DB to gff",
+  "main": "civic2gff.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "enuggetry",
+  "license": "ISC",
+  "dependencies": {
+    "big-json": "^2.0.2",
+    "fetch": "^1.1.0",
+    "fs-extra": "^7.0.0",
+    "node-fetch": "^2.2.0",
+    "object-sizeof": "^1.2.0",
+    "stream": "0.0.2"
+  }
+}
